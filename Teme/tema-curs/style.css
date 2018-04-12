@@ -1,0 +1,41 @@
+#main {
+  text-align: center; 
+  background-color: #0FD19A;
+  color: white;
+  font-size: 42px;
+}
+.outerDiv {
+  display: flex;
+}
+.Box {
+  background-color: #313334;
+  border: 2px solid black;
+  color: whitesmoke;
+  padding: 20px 20px;
+  font-size: 25px;
+}
+body {
+  background-color: #E1F0F1;
+}
+.pic {
+  text-align: center;
+}
+#second {
+  text-align: center;
+  background-color: #35474F;
+  color: white;
+  font-size: 32px;
+}
+.outerDiv2 {
+  text-align: center;
+}
+#third {
+  text-align: center;
+  background-color: #41819E;
+  font-size: 32px;
+  color: white;
+}
+.roll {
+  background-color: #A7C0E9;
+  font-size: 16px;
+}
